@@ -25,3 +25,4 @@ git push
 
 <!-- Agregá tu nombre acá -->
 - (tu nombre aquí)
+- arielalegrecg-afk
